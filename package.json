@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "https://lnicole3.github.io/lashelle_rauseo_portfolio"
   },
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://lnicole3.github.io/lashelle_rauseo_portfolio"
   },
   "dependencies": {
     "react": "^18.2.0",
