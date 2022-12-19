@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Math in a Flash",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Utilized Javascript, HTML, and CSS to build a web game application for children to practice math equations.",
+    url: "https://my_in_a_flash.surge.sh/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ArtFolio",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Designed an online application for visual artists to showcase their artwork by building a full-stack website with MongoDB, Express, React, and Node.Programmed full CRUD ability for each artwork feature using stored procedures in to execute operations.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Bootcamp Buddy",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Collaborated with a team of # developers to build a full stack website with PostgreSQL, Express, React, and Node that was coded and deployed RESTful API to serve as a review hub of software engineering bootcamps for participants to share their experiences.",
+    url: "https://github.com/microsoft/web-dev-for-beginners",
+  },
+  {
+    title: "Journalize",
+    description:
+      "Coded a full stack application with PostgreSQL, Express, React, and Node with a RESTful API to store journal entries",
+    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
 ];
 
@@ -63,7 +63,8 @@ const Portfolio = () => {
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
-            src={image}
+            src="https://cdn.pixabay.com/photo/2019/07/14/16/27/pen-4337521_1280.jpg
+            "
             style={{ height: "90%", width: "100%", objectFit: "cover" }}
             alt={imageAltText}
           />
