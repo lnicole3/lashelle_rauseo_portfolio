@@ -27,7 +27,7 @@ const siteProps = {
   name: "LaShelle Rauseo",
   title: "Web Developer & Visual Artist",
   email: "webDevLRauseo@gmail.com",
-  gitHub: "https://github.com/lnicole3",
+  gitHub: "https://github.com",
   linkedIn: "https://www.linkedin.com/in/lashelle-rauseo/",
 };
 
